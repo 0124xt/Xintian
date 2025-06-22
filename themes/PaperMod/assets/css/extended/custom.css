@@ -7,10 +7,14 @@
   text-align: center;
 }
 
-
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,350;1,350&display=swap');
 
 body {
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
+}
+
+.home-info .profile-avatar {
+  display: block;
+  margin: 0 auto;
 }

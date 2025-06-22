@@ -51,7 +51,10 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Xintian Wang
+          title: >
+            <div class="center-text">
+            Xintian Wang
+            </div>
           subtitle: >
             <div class="center-text">
               Hi! I am currently studying Cognitive Neuroscience and Biology at WashU.<br>
