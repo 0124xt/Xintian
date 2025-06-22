@@ -64,7 +64,7 @@ params:
             url: publications/
           - name: CV
             url: cv/
-          - name: Misc!
+          - name: Misc
             url: about/
 
     socialIcons:
