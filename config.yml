@@ -1,5 +1,5 @@
 baseURL: "https://0124xt.github.io/Xintian/" 
-title: Moritz-Maria von Igelfeld
+title: Xintian Wang
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -21,7 +21,7 @@ menu:
         - name: CV
           url: cv/
           weight: 4
-        - name: About XT!
+        - name: Misc
           url: about/
           weight: 3
  
@@ -29,7 +29,6 @@ menu:
 params:
     description: "Welcome to Xintian's personal website."
     author: Xintian Wang
-    # googleAnalyticsID: "G-XXXXX"
     DateFormat: "June 2025"
     defaultTheme: light
     hideFooter: true
@@ -53,7 +52,8 @@ params:
     profileMode:
           enabled: true
           title: Xintian Wang
-          subtitle: "Hi! My name is Xintian. I'm from Wuhan, China, and I'm currently studying Cognitive Neuroscience and Biology at WashU!"
+          subtitle: "Hi! I am currently studying Cognitive Neuroscience with a minor in Biology at Washington University in St. Louis.<br>Here at WashU, I am working with <a href=\ "https://www.mir.wustl.edu/employees/muriah-wheelock/">Dr. Muriah Wheelock </a> to explore developmental aspects of brain co-fluctuation events using neuroimaging methods.<br>I am also working with <a href=\ "https://psych.wustl.edu/people/wouter-kool">Dr. Wouter Kool</a> and Cathy Zhang, using computational modeling to gain insights in the underlying mechanisms of mind-wandering." 
+
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -64,7 +64,7 @@ params:
             url: publications/
           - name: CV
             url: cv/
-          - name: About XT!
+          - name: Misc!
             url: about/
 
     socialIcons:
