@@ -70,8 +70,6 @@ params:
             url: about/
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
         - name: Email
           url: mailto:w.xintian@wustl.edu
         - name: Google Scholar
