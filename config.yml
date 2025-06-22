@@ -19,8 +19,8 @@ menu:
           url: publications/
           weight: 2
         - name: CV
-        url: cv/
-        weight: 4
+          url: cv/
+          weight: 4
         - name: About XT!
           url: about/
           weight: 3
@@ -58,12 +58,12 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Research
+          - name: Research
             url: research/
           - name: Publications
             url: publications/
           - name: CV
-          url: cv/
+            url: cv/
           - name: About XT!
             url: about/
 
