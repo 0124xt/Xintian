@@ -4,8 +4,7 @@ date: 2025-06-27T13:34:51-05:00
 draft: false
 hideMeta: true
 ---
-# Publication
-Welcome to my publication page! Here's a list of publications I have worked on:
+Welcome to my publications page! Here's a list of publications I have worked on:
 
 1. Tu, J. C., Wang, Y., **Wang, X.**, Dierker, D., Sobolewski, C. M., Day, T. K. M., Kardan, O., Miranda-Domínguez, Ó., Moore, L. A., Feczko, E., Fair, D. A., Elison, J. T., Gordon, E. M., Laumann, T. O., Eggebrecht, A. T., & Wheelock, M. D. (2025). A subset of cortical areas exhibit adult-like functional network patterns in early childhood. Developmental Cognitive Neuroscience, 73, 101551. <a class="highlight-darkblue" href="https://doi.org/10.1016/j.dcn.2025.101551"> https://doi.org/10.1016/j.dcn.2025.101551</a>
 
